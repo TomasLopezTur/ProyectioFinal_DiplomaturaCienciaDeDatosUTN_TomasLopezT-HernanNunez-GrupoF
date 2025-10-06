@@ -1,5 +1,9 @@
-# Tp Final de la diplomatura ciencia de datos y analisis avanzado
+# Tp Final de la diplomatura ciencia de datos y analisis avanzado - UTN BA
 
+### Grupo F
+Alumnos: Tomas Lopez Turconi, Hernan Nuñez 
+
+---
 
 ## Objetivos
   * Definir claramente el problema a resolver, estableciendo su relevancia para el negocio y los objetivos estratégicos asociados.
